@@ -1,3 +1,4 @@
+# By - Manthan Vinzuda 
 import tkinter as tk
 import math
 import time
@@ -65,3 +66,4 @@ if __name__ == "__main__":
     clock = MechanicalClock(root)
     root.mainloop()
                                                                                                                                 # Created By Manthan Vinzuda....
+
