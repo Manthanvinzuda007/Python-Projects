@@ -1,4 +1,4 @@
-                                                                                                                                                     # Created By Manthan Vinzuda....
+# By - Manthan Vinzuda                                                                                                                                                      # Created By Manthan Vinzuda....
 # FILE: database.py
 import json
 import os
@@ -53,3 +53,4 @@ class Database:
             self.save_data()
             return True
         return False
+
